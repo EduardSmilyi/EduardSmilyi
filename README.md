@@ -57,15 +57,8 @@ I am a passionate **Unity Team Lead** and **Technical Director** with **8+ years
 
 ## 🧪 Open Source & Prototyping
 
-### 🤖 DOTS.HSM (Unity plugin, MIT license)  ![Static Badge](https://img.shields.io/badge/RepoLink-DOTS.HSM-purple?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FEdwardBrave%2FDOTS.HSM)
-
-A high-performance Hierarchical State Machine (HSM) architecture designed specifically for Unity DOTS / ECS.
-
-Focus: Unity DOTS, Entity Component System (ECS), High-Performance C#, Burst Compiler.
-
-Features: Built to run efficiently within Burst-compiled C# jobs with zero allocations, making it ideal for scalable AI and complex gameplay logic in DOTS.
-
-### 🏷️ htags (Unity plugin, MIT license) ![Static Badge](https://img.shields.io/badge/RepoLink-htags-purple?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FEdwardBrave%2Fhtags)
+### 🏷️ htags (Unity plugin, MIT license)
+https://github.com/EdwardBrave/htags
 
 A lightweight, open-source utility designed for advanced tagging, categorization, and querying.
 
@@ -73,7 +66,19 @@ Focus: C#, System Architecture, Developer Tools, Performance.
 
 Features: Robust tag management optimized for complex project hierarchies and system architectures.
 
-### 🔫 Mars Marine (PC + Controllers) ![Static Badge](https://img.shields.io/badge/RepoLink-MarsMarine-purple?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FEdwardBrave%2Fmars_marine)
+
+### 🤖 DOTS.HSM (Unity plugin, MIT license)
+https://github.com/EdwardBrave/DOTS.HSM
+
+A high-performance Hierarchical State Machine (HSM) architecture designed specifically for Unity DOTS / ECS.
+
+Focus: Unity DOTS, Entity Component System (ECS), High-Performance C#, Burst Compiler.
+
+Features: Built to run efficiently within Burst-compiled C# jobs with zero allocations, making it ideal for scalable AI and complex gameplay logic in DOTS.
+
+
+### 🔫 Mars Marine (PC + Controllers)
+https://github.com/EdwardBrave/mars_marine
 
 A top-down sci-fi wave shooter designed to explore advanced systems in Unreal Engine 5.
 
@@ -81,7 +86,9 @@ Focus: Unreal Engine 5, Gameplay Ability System (GAS), Common UI, Enhanced Input
 
 Features: Robust AI wave spawning, animation blending, impact-damaging logic, and full game controller integration.
 
-### 💀 Undertale 3D Remake (PC, Consoles) ![Static Badge](https://img.shields.io/badge/RepoLink-Undertale3dRemake-purple?style=flat-square&logo=github&link=https%3A%2F%2Fgithub.com%2FEdwardBrave%2FUndertale3dRemake)
+
+### 💀 Undertale 3D Remake (PC, Consoles)
+https://github.com/EdwardBrave/Undertale3dRemake
 
 A graphical and architectural 3D reimagining of the famous indie RPG.
 
@@ -89,7 +96,8 @@ Focus: Unity, Entitas ECS, Bolt Visual Scripting.
 
 Features: Modular level design tools, deep dialogue/cutscene systems, battle pattern AIs, and complete team management of 5 contributors.
 
-📫 Let's Build Together!
+
+### 📫 Let's Build Together!
 
 I am always interested in discussing robust software architecture, team management strategies, advanced Unity/Unreal mechanics, or potential technical partnerships.
 
