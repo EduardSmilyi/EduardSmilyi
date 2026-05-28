@@ -17,28 +17,40 @@ I am a passionate **Unity Team Lead** and **Technical Director** with **8+ years
 
 **Project management, Documentation and Full-Cycle Development:**
 - Jira, ClickUp, Trello, Agile, Scrum, Roadmap, Gantt Diagram, RACI matrix, RFP processing, WBS, SRS;
+
 **Software Architecture and Prototyping:**
 - ECS DOTS, Entitas, HSM, Dialogue System, Behavior Designer/Behavior Trees, A-star (A*) Pathfinding, NavMesh, OOP, SOLID, design patterns;
+
 **Cross-platform development:**
 - PC, VR/AR, Mobile and Consoles (Windows, Mac, Linux, WebGL, Android, iOS, Steam Deck, MS HoloLens 2, Meta Quest, SteamVR, OpenXR, XBox ...);
+
 **Scene Optimization:**
-- Unity Debugger, LOD, HLOD, Chunks, Imposters, Serialization; 
+- Unity Debugger, LOD, HLOD, Chunks, Imposters, Serialization;
+
 **Data and Assets Streaming:**
 - Asset Bundles, Addressables, Content Delivery Services, Serialization, Code Generation, Import Pipelines, Game Analytics.
+
 **Networking and Async Operations:**
 - REST, Unity NetCode, Photon PON2, Awaitable, UniTask;
+
 **Game UI:**
 - MVC, MVVM, UGUI, UIToolkit, Text Animator, custom screens and navigation;
+
 **Audio tools:**
-- FMOD for Unity, built-in audio tools; 
+- FMOD for Unity, built-in audio tools;
+
 **Dependency injection:**
-- Zenject, Reflex, Service Locator, custom lightweight solutions; 
+- Zenject, Reflex, Service Locator, custom lightweight solutions;
+
 **Dev Ops tools:**
-- Jenkins, GitLab CI, Jenkins, JB TeamCity, GitHub CI Actions, AI tools usage;
+- GitLab CI, Jenkins, JB TeamCity, GitHub CI Actions, AI tools usage;
+
 **C# Unity tools and plugins:**
 - Visual Scripting, Shader Graph, Timeline, Physics, Cinemachine, Input System, Unity XR, NavMesh, Odin Inspector / Serializer, DoTween, Feel, etc;
+
 **Other technologies and tools:**
 - Git, SVN, Unreal Engine 5 (Blueprints, Gameplay Framework, Enhanced Input System, Behavior Tree/EQS, Animations, Widgets, Meta Sounds, Lira/GAS);
+
 **Languages:**
 - C/C++, C# .NET, Python, JS, PHP, SQL, PostgreSQL | HTML/CSS, XML, YAML, JSON. 
 
