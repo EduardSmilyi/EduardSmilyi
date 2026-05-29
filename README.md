@@ -10,8 +10,8 @@ I am a passionate **Unity Team Lead** and **Technical Director** with **8+ years
 📺 [YouTube Channel](https://www.youtube.com/@EdwardBrave)
 
 ### More about my career 
-📂 [My Portfolio](https://drive.google.com/file/d/1WCr2tOEgfTA-eadyC8QZPpGhBt4ZiGx6/view?usp=drive_link) | 
-📄 [My CV](https://docs.google.com/presentation/d/1B1gW1cjgFfW6QSY6x2E2CkgPAPEAFtlokqE3szZh-eU/edit?usp=sharing)
+📂 [My Portfolio](https://docs.google.com/presentation/d/1B1gW1cjgFfW6QSY6x2E2CkgPAPEAFtlokqE3szZh-eU/edit?usp=sharing) | 
+📄 [My CV](https://drive.google.com/file/d/1WCr2tOEgfTA-eadyC8QZPpGhBt4ZiGx6/view?usp=drive_link)
 
 ### 🛠️ Technical Arsenal
 
