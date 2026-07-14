@@ -1,8 +1,8 @@
 # Hi there, I'm Eduard Smilyi 👋
-### Unity Team Lead | Technical Director | Software Architect
+### Technical Lead | Senior Unity Developer
 
 ## 🚀 Professional Summary
-I am a passionate **Unity Team Lead** and **Technical Director** with **8+ years of experience** delivering games and interactive applications across **PC, Mobile, AR/VR, and Consoles**. I combine deep hands-on engineering experience in multiple game engines with robust technical leadership to architect scalable solutions, design resilient codebase structures, optimize runtime performance, and lead multi-disciplinary teams to deliver high-quality commercial products.
+I am a passionate **Unity Team Lead** and **Senior Unity Developer** with **11+ years of experience** delivering games and interactive applications across **PC, Mobile, AR/VR, and Consoles**. I combine deep hands-on engineering experience in multiple game engines with robust technical leadership to architect scalable solutions, design resilient codebase structures, optimize runtime performance, and lead multi-disciplinary teams to deliver high-quality commercial products.
 
 ## 📂 Quick Links
 
@@ -95,6 +95,15 @@ A graphical and architectural 3D reimagining of the famous indie RPG.
 Focus: Unity, Entitas ECS, Bolt Visual Scripting.
 
 Features: Modular level design tools, deep dialogue/cutscene systems, battle pattern AIs, and complete team management of 5 contributors.
+
+### 🔠 Undertale 3D Remake (PC, Consoles)
+https://github.com/EdwardBrave/test_letters_painter
+
+2D Unity mobile tracing game for children to learn letters, numbers, and shapes with line paiting.
+
+Focus: Unity, Zenject, uGUI+MVP, Addressables, UniTask.
+
+Features:Async assets/levels loading and serialization in the Zenject environment. Flexible universal Shapes tracing algorithm.
 
 
 ### 📫 Let's Build Together!
