@@ -96,7 +96,7 @@ Focus: Unity, Entitas ECS, Bolt Visual Scripting.
 
 Features: Modular level design tools, deep dialogue/cutscene systems, battle pattern AIs, and complete team management of 5 contributors.
 
-### 🔠 Undertale 3D Remake (PC, Consoles)
+### 🔠 Letters Painter (Mobile)
 https://github.com/EdwardBrave/test_letters_painter
 
 2D Unity mobile tracing game for children to learn letters, numbers, and shapes with line paiting.
