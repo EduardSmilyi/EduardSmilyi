@@ -1,4 +1,4 @@
-# Hi there, I'm Eduard Smilyi 👋
+# Hi there, I'm Edward Brave 👋
 ### Technical Lead | Senior Unity Developer
 
 ## 🚀 Professional Summary
