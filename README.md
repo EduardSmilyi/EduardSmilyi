@@ -1,4 +1,4 @@
-# Hi there, I'm Edward Brave 👋
+# Hi there, I'm Eduard Smilyi 👋
 ### Technical Lead | Senior Unity Developer
 
 ## 🚀 Professional Summary
@@ -7,7 +7,7 @@ I am a passionate **Unity Team Lead** and **Senior Unity Developer** with **11+ 
 ## 📂 Quick Links
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/eduard-brave-679396123/) | 
-📺 [YouTube Channel](https://www.youtube.com/@EdwardBrave)
+📺 [YouTube Channel](https://www.youtube.com/@EduardSmilyi)
 
 ### More about my career 
 📂 [My Portfolio](https://docs.google.com/presentation/d/1B1gW1cjgFfW6QSY6x2E2CkgPAPEAFtlokqE3szZh-eU/edit?usp=sharing) | 
@@ -58,7 +58,7 @@ I am a passionate **Unity Team Lead** and **Senior Unity Developer** with **11+ 
 ## 🧪 Open Source & Prototyping
 
 ### 🏷️ htags (Unity plugin, MIT license)
-https://github.com/EdwardBrave/htags
+https://github.com/EduardSmilyi/htags
 
 A lightweight, open-source utility designed for advanced tagging, categorization, and querying.
 
@@ -68,7 +68,7 @@ Features: Robust tag management optimized for complex project hierarchies and sy
 
 
 ### 🤖 DOTS.HSM (Unity plugin, MIT license)
-https://github.com/EdwardBrave/DOTS.HSM
+https://github.com/EduardSmilyi/DOTS.HSM
 
 A high-performance Hierarchical State Machine (HSM) architecture designed specifically for Unity DOTS / ECS.
 
@@ -78,7 +78,7 @@ Features: Built to run efficiently within Burst-compiled C# jobs with zero alloc
 
 
 ### 🔫 Mars Marine (PC + Controllers)
-https://github.com/EdwardBrave/mars_marine
+https://github.com/EduardSmilyi/mars_marine
 
 A top-down sci-fi wave shooter designed to explore advanced systems in Unreal Engine 5.
 
@@ -88,7 +88,7 @@ Features: Robust AI wave spawning, animation blending, impact-damaging logic, an
 
 
 ### 💀 Undertale 3D Remake (PC, Consoles)
-https://github.com/EdwardBrave/Undertale3dRemake
+https://github.com/EduardSmilyi/Undertale3dRemake
 
 A graphical and architectural 3D reimagining of the famous indie RPG.
 
@@ -97,7 +97,7 @@ Focus: Unity, Entitas ECS, Bolt Visual Scripting.
 Features: Modular level design tools, deep dialogue/cutscene systems, battle pattern AIs, and complete team management of 5 contributors.
 
 ### 🔠 Letters Painter (Mobile)
-https://github.com/EdwardBrave/test_letters_painter
+https://github.com/EduardSmilyi/test_letters_painter
 
 2D Unity mobile tracing game for children to learn letters, numbers, and shapes with line paiting.
 
