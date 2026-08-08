@@ -1,8 +1,8 @@
 # Hi there, I'm Eduard Smilyi 👋
-### Technical Lead | Senior Unity Developer
+### Unity Team Lead | Senior C# Developer | Dev Ops
 
 ## 🚀 Professional Summary
-I am a passionate **Unity Team Lead** and **Senior Unity Developer** with **11+ years of experience** delivering games and interactive applications across **PC, Mobile, AR/VR, and Consoles**. I combine deep hands-on engineering experience in multiple game engines with robust technical leadership to architect scalable solutions, design resilient codebase structures, optimize runtime performance, and lead multi-disciplinary teams to deliver high-quality commercial products.
+I am a passionate **Unity Team Lead** and **Senior C# Developer** with **11+ years of experience** delivering software, games, and interactive applications across **PC, Mobile, AR/VR, and Consoles**. I combine deep hands-on engineering experience across multiple tech frameworks and game engines with strong technical leadership to architect scalable solutions, design resilient codebase structures, optimize runtime performance, and lead cross-functional teams to deliver high-quality commercial products.
 
 ## 📂 Quick Links
 
